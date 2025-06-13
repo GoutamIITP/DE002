@@ -32,3 +32,14 @@ This is the solution code for the Alphabet Rangoli problem.
 ## Solution Code
 
 See [`alphabet-rangoli_sol.py`](alphabet-rangoli_sol.py) for the code.
+## 5. merge-the-tools : Split a string into equal parts of length and Convert each parts by removing any subsequent occurrences of non-distinct
+
+This is the solution code for the Alphabet Rangoli problem.
+
+## Screenshot
+
+![Alphabet Rangoli Solution Screenshot](SS/Merge_tool.png)
+
+## Solution Code
+
+See [`Merge-the-tool`](Mereg_tool_sol.py) for the code.
