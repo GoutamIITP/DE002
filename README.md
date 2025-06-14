@@ -34,7 +34,7 @@ This is the solution code for the Alphabet Rangoli problem.
 See [`alphabet-rangoli_sol.py`](alphabet-rangoli_sol.py) for the code.
 ## 5. merge-the-tools : Split a string into equal parts of length and Convert each parts by removing any subsequent occurrences of non-distinct
 
-This is the solution code for the Alphabet Rangoli problem.
+This is the solution code   problem.
 
 ## Screenshot
 
@@ -43,3 +43,16 @@ This is the solution code for the Alphabet Rangoli problem.
 ## Solution Code
 
 See [`Merge-the-tool`](Mereg_tool_sol.py) for the code.
+
+## 6. collections-counter : calculate the total earned amount
+
+This is the solution code for   problem.
+
+## Screenshot
+
+![Collectin Count](SS/Collection_count.png)
+
+## Solution Code
+
+See [`Collection Count`](collection_count.py) for the code.
+
