@@ -66,4 +66,17 @@ This is the solution code for   problem.
 ## Solution Code
 
 See [`exception.py`](exception_sol.py) for the code.
+## 8. incorrect-regex : regex based problem statement
+
+This is the solution code for   problem.
+
+## Screenshot
+
+![Regex](SS/Regex.png)
+
+## Solution Code
+
+See [`exception- Regex`](Regex_sol.py) for the code.
+
+
 
