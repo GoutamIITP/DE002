@@ -55,4 +55,15 @@ This is the solution code for   problem.
 ## Solution Code
 
 See [`Collection Count`](collection_count.py) for the code.
+## 7. exceptions : implementing exception handling
+
+This is the solution code for   problem.
+
+## Screenshot
+
+![Exception](SS/Exception.png)
+
+## Solution Code
+
+See [`exception.py`](exception_sol.py) for the code.
 
