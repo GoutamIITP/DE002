@@ -77,6 +77,17 @@ This is the solution code for   problem.
 ## Solution Code
 
 See [`exception- Regex`](Regex_sol.py) for the code.
+## 9. py-set-discard-remove-pop : task based on discard(),remove() & pop()
+
+This is the solution code for   problem.
+
+## Screenshot
+
+![discard-pop-remove](SS/remove_pop_discard.png)
+
+## Solution Code
+
+See [`Remove_pop_discard_sol`](remove-pop-discard_sol.py) for the code.
 
 
 
